@@ -10,5 +10,3 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-Hey! If you are loking for `timezones`, look at [zorinbot/timezones](https://github.com/zorinbot/timezones)
