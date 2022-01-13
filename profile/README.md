@@ -1,12 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<a href="http://zorin.com.br" target="_blank"><img src="https://zorin.com.br/assets/logoFull.svg" alt="Zorin Logo" height="100" /></a>
 
-**Here are some ideas to get you started:**
+**Stream music in the best quality to your server, online all time, everyday**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Support Server](https://discord.com/api/guilds/791225121695858718/embed.png?style=banner2)](https://support.zorin.com.br)
+
+
+| **[Full command list](https://zorin.com.br/commands)**	|
+|-----------------------------------------------------------------------------	|
+
+</div>
