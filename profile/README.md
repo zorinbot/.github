@@ -7,7 +7,9 @@
 [![Support Server](https://discord.com/api/guilds/791225121695858718/embed.png?style=banner2)](https://support.zorin.com.br)
 
 
-| **[Full command list](https://zorin.com.br/commands)**	|
+| **[Website](https://zorin.com.br)**	|
 |-----------------------------------------------------------------------------	|
+
+<a href="https://www.digitalocean.com/?refcode=327d96b3c987&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
 
 </div>
