@@ -1,15 +1,23 @@
-<div align="center">
+# Zorin
 
-<a href="http://zorin.com.br" target="_blank"><img src="https://zorin.com.br/assets/logoFull.svg" alt="Zorin Logo" height="100" /></a>
+`-` [Zorin Discord Bot by a lot of people](https://zorin.com.br/team)
 
-**Stream music in the best quality to your server, online all time, everyday**
+`-` [Zorin Discord Bot](https://add.zorin.com.br)
 
-[![Support Server](https://discord.com/api/guilds/791225121695858718/embed.png?style=banner2)](https://support.zorin.com.br)
+Stream music in the best quality to your server, online all time
 
+# Contributors
 
-| **[Website](https://zorin.com.br)**	|
-|-----------------------------------------------------------------------------	|
+`-` [Luís](https://github.com/xyluis)
+    
+`-` [Izak](https://github.com/izakdvlpr)
 
-<a href="https://www.digitalocean.com/?refcode=327d96b3c987&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
+# Useful links
 
-</div>
+⤷ [Support](https://support.zorin.com.br)
+
+⤷ [Website](https://zorin.com.br)
+
+⤷ [Twitter](https://twitter.com/zorinbot)
+
+⤷ [Instagram](https://instagram.com/zorinbot)
