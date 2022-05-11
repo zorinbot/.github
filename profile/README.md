@@ -14,10 +14,10 @@ Stream music in the best quality to your server, online all time
 
 # Useful links
 
-⤷ [Support](https://support.zorin.com.br)
+`-` [Support](https://support.zorin.com.br)
 
-⤷ [Website](https://zorin.com.br)
+`-` [Website](https://zorin.com.br)
 
-⤷ [Twitter](https://twitter.com/zorinbot)
+`-` [Twitter](https://twitter.com/zorinbot)
 
-⤷ [Instagram](https://instagram.com/zorinbot)
+`-` [Instagram](https://instagram.com/zorinbot)
