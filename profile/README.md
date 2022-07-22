@@ -1,23 +1,43 @@
+![banner]
+
 # Zorin
 
-`-` [Zorin Discord Bot by a lot of people](https://zorin.com.br/team)
+This is the organization responsible for keeping all Zorin code, from the website to essential microservices for the bot to work perfectly.
 
-`-` [Zorin Discord Bot](https://add.zorin.com.br)
+👍 We appreciate your follow, it helps!
 
-Stream music in the best quality to your server, online all time
+## Introduction
 
-# Contributors
+Zorin is a music bot primarily focused on speed, quality and minimalism, with simple well-structured interfaces for a better user experience. On top of that, we still support several music providers, such as Apple Music, Spotify, Youtube Music, SoundCloud, Deezer, Tidal and many others.
 
-`-` [Luís](https://github.com/xyluis)
-    
-`-` [Izak](https://github.com/izakdvlpr)
+## Useful links
 
-# Useful links
+`-` [Website][website]
 
-`-` [Support](https://support.zorin.com.br)
+`-` [Github][github]
 
-`-` [Website](https://zorin.com.br)
+`-` [Add to server][add]
 
-`-` [Twitter](https://twitter.com/zorinbot)
+`-` [Support][support]
 
-`-` [Instagram](https://instagram.com/zorinbot)
+`-` [Contact us][mail]
+
+## Contributors
+
+`-` Luís [📜](https://github.com/xyluis) [🌎](https://xyluis.vercel.app)
+
+`-` Isaque [📜](https://github.com/izakdvlpr) [🌎](https://izakdvlpr.vercel.app/)
+
+_Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
+
+---
+Made with 💜 by a lot of [people][team]
+
+<!-- Variables -->
+[website]: https://www.zorin.com.br
+[team]: https://www.zorin.com.br/team
+[add]: https://add.zorin.com.br
+[support]: https://support.zorin.com.br
+[github]: https://github.com/zorinbot
+[mail]: hi@zorin.com.br
+[banner]: https://github.com/zorinbot/.github/raw/main/assets/github-banner.png
