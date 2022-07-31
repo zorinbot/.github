@@ -1,5 +1,3 @@
-![banner]
-
 # Zorin
 
 This is the organization responsible for keeping all Zorin code, from the website to essential microservices for the bot to work perfectly.
