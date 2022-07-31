@@ -37,5 +37,5 @@ Made with 💜 by a lot of [people][team]
 [add]: https://add.zorin.com.br
 [support]: https://support.zorin.com.br
 [github]: https://github.com/zorinbot
-[mail]: hi@zorin.com.br
+[mail]: mailto:hi@zorin.com.br
 [banner]: https://github.com/zorinbot/.github/raw/main/assets/github-banner.png
