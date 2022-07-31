@@ -32,8 +32,8 @@ _Want to be a contributor? Send us a message on our [e-mail][mail] or our [suppo
 Made with 💜 by a lot of [people][team]
 
 <!-- Variables -->
-[website]: https://www.zorin.com.br
-[team]: https://www.zorin.com.br/team
+[website]: https://zorin.com.br
+[team]: https://zorin.com.br/team
 [add]: https://add.zorin.com.br
 [support]: https://support.zorin.com.br
 [github]: https://github.com/zorinbot
