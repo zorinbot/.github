@@ -29,7 +29,7 @@ Zorin is a music bot primarily focused on speed, quality and minimalism, with si
 _Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
 
 ---
-Made with 💜 by a lot of [people][team]
+Made with 💙 by a lot of [people][team]
 
 <!-- Variables -->
 [website]: https://zorin.com.br
