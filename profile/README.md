@@ -6,7 +6,7 @@ This is the organization responsible for keeping all Zorin code, from the websit
 
 ## Introduction
 
-Zorin is a moderation bot with a single focus, to be fast, minimalist and secure, ready to use and in a way that doesn't leak data or any information from the server.
+Zorin is a moderation and interactions bot with a single focus, to be fast, minimalist and secure, ready to use and in a way that does not leak data or any information from the server.
 
 ## Useful links
 
