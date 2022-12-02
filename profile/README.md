@@ -12,7 +12,7 @@ Zorin is a music bot primarily focused on speed, quality and minimalism, with si
 
 `-` [Website][website]
 
-`-` [Github][github]
+`-` [Twitter][Twitter]
 
 `-` [Add to server][add]
 
@@ -24,7 +24,9 @@ Zorin is a music bot primarily focused on speed, quality and minimalism, with si
 
 `-` Luís [📜](https://github.com/xyluis) [🌎](https://xyluis.vercel.app)
 
-`-` Isaque [📜](https://github.com/izakdvlpr) [🌎](https://izakdvlpr.vercel.app/)
+`-` Isaque [📜](https://github.com/izakdvlpr) [🌎](https://izakdvlpr.vercel.app)
+
+`-` Upenha [📜](https://github.com/upenha) [🌎](https://upenha.com.br)
 
 _Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
 
@@ -36,6 +38,6 @@ Made with 💙 by a lot of [people][team]
 [team]: https://zorin.com.br/team
 [add]: https://add.zorin.com.br
 [support]: https://support.zorin.com.br
-[github]: https://github.com/zorinbot
+[twitter]: https://twitter.com/zorinbot
 [mail]: mailto:hi@zorin.com.br
 [banner]: https://github.com/zorinbot/.github/raw/main/assets/github-banner.png
