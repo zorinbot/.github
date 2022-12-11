@@ -31,7 +31,6 @@ Zorin is a moderation and interactions bot with a single focus, to be fast, mini
 `-` Upenha [📜](https://github.com/upenha) [🌎](https://upenha.com.br)
 
 _Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
----
 
 ![what-we-use]
 
