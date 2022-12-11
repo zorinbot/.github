@@ -1,3 +1,5 @@
+![banner]
+
 # Zorin
 
 This is the organization responsible for keeping all Zorin code, from the website to essential microservices for the bot to work perfectly.
@@ -29,6 +31,9 @@ Zorin is a moderation and interactions bot with a single focus, to be fast, mini
 `-` Upenha [📜](https://github.com/upenha) [🌎](https://upenha.com.br)
 
 _Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
+---
+
+![what-we-use]
 
 ---
 Made with 💙 by a lot of [people][team]
@@ -40,4 +45,5 @@ Made with 💙 by a lot of [people][team]
 [support]: https://support.zorin.com.br
 [twitter]: https://twitter.com/zorinbot
 [mail]: mailto:hi@zorin.com.br
-[banner]: https://github.com/zorinbot/.github/raw/main/assets/github-banner.png
+[banner]: https://github.com/zorinbot/.github/raw/main/assets/banner.png
+[what-we-use]: https://github.com/zorinbot/.github/raw/main/assets/what-we-use.png
