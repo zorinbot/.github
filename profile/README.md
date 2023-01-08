@@ -45,4 +45,4 @@ Made with 💙 by a lot of [people][team]
 [twitter]: https://twitter.com/zorinbot
 [mail]: mailto:hi@zorin.com.br
 [banner]: https://github.com/zorinbot/.github/raw/main/assets/banner.png
-[what-we-use]: https://github.com/zorinbot/.github/raw/main/assets/what-we-use.png
+[what-we-use]: https://github.com/zorinbot/.github/raw/main/assets/banner-what-we-use.png
