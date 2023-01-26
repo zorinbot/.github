@@ -22,7 +22,7 @@ Zorin is a moderation and interactions bot with a single focus, to be fast, mini
     <td align="center"><a href="https://zorin.com.br"><img style="border-radius: 50%;" src="https://github.com/upenha.png" width="100px;" alt=""/><br /><sub><b>Lucas Kouzoukian</b></sub></a><br /><a href="https://zorin.com.br/" title="Zorin">👨‍🚀</a></td>
     <td align="center"><a href="https://zorin.com.br"><img style="border-radius: 50%;" src="https://github.com/izakdvlpr.png" width="100px;" alt=""/><br /><sub><b>Isaque Lima</b></sub></a><br /><a href="https://zorin.com.br/" title="Zorin">👨‍🚀</a></td>
     <td align="center"><a href="https://zorin.com.br"><img style="border-radius: 50%;" src="https://github.com/bluee-js.png" width="100px;" alt=""/><br /><sub><b>João Gabriel</b></sub></a><br /><a href="https://zorin.com.br/" title="Zorin">👨‍🚀</a></td>
-    <td align="center"><a href="https://zorin.com.br"><img style="border-radius: 50%;" src="https://github.com/rafosto.png" width="100px;" alt=""/><br /><sub><b>Rafosto</b></sub></a><br /><a href="https://zorin.com.br/" title="Zorin">👨‍🚀</a></td>
+    <td align="center"><a href="https://zorin.com.br"><img style="border-radius: 50%;" src="https://github.com/rafosto.png" width="100px;" alt=""/><br /><sub><b>Rafael Pedro</b></sub></a><br /><a href="https://zorin.com.br/" title="Zorin">👨‍🚀</a></td>
   </tr>
 </table>
 
