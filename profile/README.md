@@ -24,7 +24,7 @@ Zorin is a moderation and interactions bot with a single focus, to be fast, mini
 
 `-` João Gabriel [📜](https://github.com/bluee-js) [🌎](https://bluey.tech)
 
-`-` Rafael Pedro [📜](https://github.com/rafosto)
+`-` Rafael Pedro [📜](https://github.com/rafosto) [🌎](https://rafosto.tk/)
 
 _Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
 
