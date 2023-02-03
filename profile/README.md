@@ -8,7 +8,7 @@ This is the organization responsible for keeping all Zorin code, from the websit
 
 ## Introduction
 
-Zorin is a moderation and interactions bot with a single focus, to be fast, minimalist and secure, ready to use and in a way that does not leak data or any information from the server.
+Zorin is a music bot primarily focused on speed, quality and minimalism, with simple well-structured interfaces for a better user experience. On top of that, we still support several music providers, such as Apple Music, Spotify, Youtube Music, SoundCloud, Deezer, Tidal and many others.
 
 ## Useful links
 
@@ -16,7 +16,7 @@ Zorin is a moderation and interactions bot with a single focus, to be fast, mini
 
 ## Contributors
 
-`-` Luís Felipe [📜](https://github.com/xyluis) [🌎](https://xyluis.vercel.app)
+`-` Luís Felipe [📜](https://github.com/xyluis) [🌎](https://xyluis.tech)
 
 `-` Isaque Lima [📜](https://github.com/izakdvlpr) [🌎](https://izak.tech)
 
