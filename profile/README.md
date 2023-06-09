@@ -24,8 +24,6 @@ Zorin is a music bot primarily focused on speed, quality and minimalism, with si
 
 `-` João Gabriel [📜](https://github.com/bluee-js) [🌎](https://bluey.tech)
 
-`-` Rafael Pedro [📜](https://github.com/rafosto) [🌎](https://rafosto.tk/)
-
 _Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
 
 ![what-we-use]
