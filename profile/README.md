@@ -18,12 +18,6 @@ Zorin is a music bot primarily focused on speed, quality and minimalism, with si
 
 `-` Luís Felipe [📜](https://github.com/xyluis) [🌎](https://xyluis.tech)
 
-`-` Isaque Lima [📜](https://github.com/izakdvlpr) [🌎](https://izak.tech)
-
-`-` Lucas Kouzoukian [📜](https://github.com/upenha) [🌎](https://upenha.tech)
-
-`-` João Gabriel [📜](https://github.com/bluee-js) [🌎](https://bluey.tech)
-
 _Want to be a contributor? Send us a message on our [e-mail][mail] or our [support][support]_.
 
 ![what-we-use]
@@ -32,12 +26,12 @@ _Want to be a contributor? Send us a message on our [e-mail][mail] or our [suppo
 Made with 💙 by a lot of [people][team]
 
 <!-- Variables -->
-[website]: https://zorin.com.br
-[team]: https://zorin.com.br/team
-[add]: https://links.zorin.app.br/add
-[support]: https://links.zorin.app.br/support
-[twitter]: https://links.zorin.app.br/twitter
-[instagram]: https://links.zorin.app.br/instagram
-[mail]: mailto:hi@zorin.com.br
-[banner]: https://github.com/zorinbot/.github/raw/main/assets/banner.png
-[what-we-use]: https://github.com/zorinbot/.github/raw/main/assets/banner-what-we-use.png
+[website]: https://zorin.app
+[team]: https://zorin.app/team
+[add]: https://go.zorin.app/add
+[support]: https://links.zorin.app/support
+[twitter]: https://links.zorin.app/x
+[instagram]: https://links.zorin.app/instagram
+[mail]: mailto:hi@zorin.app
+[banner]: https://github.com/zorinbot/.github/raw/main/assets/github-main-banner.png
+[what-we-use]: https://github.com/zorinbot/.github/raw/main/assets/github-what-we-use.png
