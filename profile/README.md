@@ -29,9 +29,9 @@ Made with 💙 by a lot of [people][team]
 [website]: https://zorin.app
 [team]: https://zorin.app/team
 [add]: https://go.zorin.app/add
-[support]: https://links.zorin.app/support
-[twitter]: https://links.zorin.app/x
-[instagram]: https://links.zorin.app/instagram
+[support]: https://go.zorin.app/support
+[twitter]: https://go.zorin.app/x
+[instagram]: https://go.zorin.app/instagram
 [mail]: mailto:hi@zorin.app
 [banner]: https://github.com/zorinbot/.github/raw/main/assets/github-main-banner.png
 [what-we-use]: https://github.com/zorinbot/.github/raw/main/assets/github-what-we-use.png
