@@ -83,7 +83,7 @@ That's it. You're listening.
     </td>
     <td width="50%" align="center">
       <img src="https://cdn.zorin.app/zorin-level-up.png" alt="Level up card" width="100%" />
-      <br /><sub>Level up</sub>
+      <br /><sub><code>Level up</code></sub>
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ That's it. You're listening.
     </td>
     <td width="50%" align="center">
       <img src="https://cdn.zorin.app/zorin-profile.png" alt="Profile card" width="100%" />
-      <br /><sub>/profile</sub>
+      <br /><sub><code>/profile</code></sub>
     </td>
   </tr>
 </table>
