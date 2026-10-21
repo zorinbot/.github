@@ -93,7 +93,7 @@ That's it. You're listening.
     </td>
     <td width="50%" align="center">
       <img src="https://cdn.zorin.app/zorin-profile.png" alt="Profile card" width="100%" />
-      <br /><sub>Profile</sub>
+      <br /><sub>/profile</sub>
     </td>
   </tr>
 </table>
