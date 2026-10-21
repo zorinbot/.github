@@ -78,21 +78,21 @@ That's it. You're listening.
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://cdn.zorin.app/zorin-now-playing.jpg" alt="Now playing card" width="100%" />
+      <img src="https://cdn.zorin.app/zorin-now-playing.png" alt="Now playing card" width="100%" />
       <br /><sub><code>/nowplaying</code></sub>
     </td>
     <td width="50%" align="center">
-      <img src="https://cdn.zorin.app/zorin-level-up.jpg" alt="Level up card" width="100%" />
+      <img src="https://cdn.zorin.app/zorin-level-up.png" alt="Level up card" width="100%" />
       <br /><sub>Level up</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://cdn.zorin.app/zorin-leaderboard.jpg" alt="Leaderboard card" width="100%" />
+      <img src="https://cdn.zorin.app/zorin-leaderboard.png" alt="Leaderboard card" width="100%" />
       <br /><sub><code>/leaderboard</code></sub>
     </td>
     <td width="50%" align="center">
-      <img src="https://cdn.zorin.app/zorin-profile.jpg" alt="Profile card" width="100%" />
+      <img src="https://cdn.zorin.app/zorin-profile.png" alt="Profile card" width="100%" />
       <br /><sub>Profile</sub>
     </td>
   </tr>
